@@ -1,4 +1,3 @@
-// jQuery Plugin
 /*jshint browser:true */
 /*!
 * FitVids 1.1
