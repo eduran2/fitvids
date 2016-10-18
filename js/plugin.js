@@ -1,2 +1,2 @@
 // jQuery Plugin
-$('body').fitVids();
+$('body').fitVids(); 
